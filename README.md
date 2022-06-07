@@ -6,6 +6,6 @@ Este repositório contém projetos utilizando a linguagem Python. Cada pasta é 
 
 ## **Projetos**
 
-- [Adivinhaçã](https://github.com/arthurcortesr/Python/tree/main/Adivinha%C3%A7%C3%A3o)
+- [Adivinhação](https://github.com/arthurcortesr/Python/tree/main/Adivinha%C3%A7%C3%A3o)
 - [Força](https://github.com/arthurcortesr/Python/tree/main/Forca)
 - [Jogos](https://github.com/arthurcortesr/Python/tree/main/Jogos)
